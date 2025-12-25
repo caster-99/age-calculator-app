@@ -8,7 +8,7 @@ function App() {
       <Card />
       <div className='attribution'>
         <p> Challenge by Frontend Mentor. </p>
-        Coded by <a href="https://github.com/luisamlopez">Luisa López</a>.
+        Coded by <a href="https://github.com/caster-99">Luisa López</a>.
 
       </div>
     </div>
